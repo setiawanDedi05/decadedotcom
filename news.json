@@ -1,0 +1,94 @@
+{
+    "User":[
+        {
+            "id" : 1,
+            "username":"Dedi Setiawan",
+            "email": "ddie@decade.com",
+            "password":"12345678",
+            "role":"admin",
+            "phoneNumber":"081575271662",
+            "address":"Cipanas"
+        }
+        
+    ],
+    "Post": [
+        { 
+            "id":1,
+            "title": "6 Tips Ampuh untuk Mengontrol Nafsu Makan secara Sehat",
+            "slug": "Cocok buat kamu yang suka kalap waktu diet",
+            "content": "Ketika sedang menurunkan berat badan, kita perlu mengurangi jumlah kalori harian. Bagi      sebagian besar orang, menahan nafsu makan adalah hal yang susah, terutama bagi yang baru pertama kali mencoba diet. Menahan nafsu makan untuk mengurangi asupan kalori harian bukan semata-mata hanya makan dalam jumlah yang sangat sedikit. Faktanya, tubuh juga butuh nutrisi cukup dari makanan agar dapat berfungsi sebagaimana mestinya. Berikut adalah tips yang bisa kamu terapkan supaya bisa mengontrol nafsu makan dengan cara yang benar dan tentunya sehat. Simak sampai tuntas, ya. 1. Makan lebih banyak protein dan lemak baik Dilansir Medical News Today, tidak semua jenis makanan memberikan rasa kenyang yang sama. Dibandingkan karbohidrat, protein dan lemak mampu memberikan rasa kenyang yang lebih lama. Jadi, kamu bisa mengurangi porsi karbohidrat dan menggantinya dengan lebih banyak protein serta lemak baik.  Beberapa jenis makanan yang kaya akan protein adalah sebagai berikut: Daging rendah lemak (dada ayam, bagian daging sapi rendah lemak)1. Telur2. Kacang-kacangan3. Produk kedelai (tempe, tahu)4. Greek yogurt",
+            "imgUrl":"https://cdn.idntimes.com/content-images/community/2021/10/pexels-karolina-grabowska-6660129-f447a79b77dd3006416fe09320a4b2a7-549e5598879728ab031228cd527c8895_600x400.jpg",
+            "createdAt": "2021-11-08",
+            "updatedAt": "2021-11-08",
+            "categoryId":6,
+            "authorId":1
+        },
+        {
+            "id": 2,
+            "title": "Unggulkan Fitur Kamera, vivo V21 Jadi Teman Seru untuk Gen Z",
+            "slug": "Mau swafoto atau vlogging, semuanya jadi keren!",
+            "content": "Tahun 2021 ini, vivo Indonesia resmi menghadirkan lini terbaru vivo V Series, yakni vivo V21. Smartphone vivo V21 ini mengusung dua teknologi mumpuni khas produk vivo V-Series, yaitu teknologi kamera—khususnya kamera depan—dan tampilan desain tipis yang selalu membawa kesan stylish dan trendi.Dengan dukungan teknologi utama ini, vivo V21 menjadi produk unggulan di kelasnya yang menyasar kalangan gen Z dan milenial untuk bisa merasakan pengalaman yang lebih seru untuk mengabadikan berbagai potret momen di sekitarnya.Sebagai teman pas untuk beragam keseruan aktivitas gen Z, seperti apa inovasi fitur terbaru yang ditawarkan oleh vivo V21 ini? Untuk itu, simak ulasannya berikut ini, ya!",
+            "imgUrl": "https://cdn.idntimes.com/content-images/community/2021/11/photo-2021-11-03-20-10-18-4d23822ccac3dfe35493570f0dade410-4e622af38f6f83aba0d2ed4d8fa364d9_600x400.jpg",
+            "createdAt": "2021-11-08",
+            "updatedAt": "2021-11-08",
+            "categoryId": 3,
+            "authorId": 1
+        },
+        {
+            "id": 3,
+            "title": "Penuh Kejutan! 5 Pencetak Gol Terbanyak di Liga Champions Musim Ini",
+            "slug": "Sebastien Haller tengah mencuri perhatian publik!",
+            "content": "Musim ini Liga Champions penuh dengan kejutan. Liga Champions hanya tersisa dua pertandingan lagi untuk memastikan tim mana saja yang berhak lolos ke babak 16 besar. Meksipun beberapa klub sudah memastikan diri akan lolos, matchday ke-5 nanti tetap ditunggu untuk ditonton.Musim ini nama Sebastien Haller muncul menjadi perhatian publik. Sementara itu, Robert Lewandowski masih tak terkalahkan di puncak top skor. Nah, berikut ulasan lengkap lima pencetak gol terbanyak di Liga Champions awal musim ini.",
+            "imgUrl": "https://cdn.idntimes.com/content-images/community/2021/11/fdogxcrweae5ifu-fca9d862d8578657b10844648916622f-b0f11e97884721644babae35252407c1_600x400.jpeg",
+            "createdAt": "2021-11-08",
+            "updatedAt": "2021-11-08",
+            "categoryId": 2,
+            "authorId": 1
+        },
+        {
+            "id": 4,
+            "title": "Rupiah Ungguli Dolar AS Seharian, Ini Penyebabnya",
+            "slug": "Rupiah ditutup menguat ke level Rp14.260 per dolar AS",
+            "content": "Nilai tukar atau kurs rupiah kembali berhasil mengungguli dolar Amerika Serikat (AS) hari ini. Pada penutupan perdagangan awal pekan atau Senin (8/11/2021), kurs rupiah ditutup menguat terhadap dolar AS.Mengutip Bloomberg, mata uang Garuda hari ini ditutup menguat hingga 71 poin atau 0,50 persen ke level Rp14.260 per dolar AS. Adapun pada penutupan perdagangan akhir pekan atau Jumat (5/11/2021) sore, rupiah melemah 35 poin atau pada level Rp14.331 per dolar AS.Penguatan rupiah pada penutupan melanjutkan tren positif yang terjadi pada pembukaan tadi pagi. Kurs rupiah hari ini dibuka menguat empat poin ke level Rp14.327 per dolar AS.",
+            "imgUrl": "https://cdn.idntimes.com/content-images/post/20210106/whatsapp-image-2021-01-06-at-61938-pm-1-24659514e1040691c51eb8dfac63dfb0_600x400.jpg",
+            "createdAt": "2021-11-08",
+            "updatedAt": "2021-11-08",
+            "categoryId": 1,
+            "authorId": 1
+        },
+        {
+            "id": 5,
+            "title": "10 Potret Terbaru Ivan Gunawan, Bisa Pakai Celana Ukuran 36",
+            "slug": "Bikin pangling, deh, penampilan Igun! #IDNTimesHype",
+            "content": "Ivan Gunawan melakukan diet demi menurunkan berat badannya beberapa waktu lalu. Berhasil menurunkan 20 kg lebih, penampilan Igun—sapaan akrabnya— makin tirus dan lebih fresh. Perubahan penampilan Ivan Gunawan ini juga dipuji oleh netizen. Banyak juga yang bilang Igun makin macho. Yang lebih bikin kagum, sekarang ia sudah bisa pakai celana ukuran 36. Padahal biasanya lebih dari itu. Bikin penasaran, seperti apa penampilan terbaru Ivan Gunawan? Simak potretnya berikut ini!",
+            "imgUrl": "https://cdn.idntimes.com/content-images/community/2021/11/img-20211107-091445-3c1b98200407221f2b4726df9fd934d0-6bfb73aec46c7df0fdccac37a20733e0_600x400.jpg",
+            "createdAt": "2021-11-08",
+            "updatedAt": "2021-11-08",
+            "categoryId": 4,
+            "authorId": 1
+        },
+        {
+            "id": 6,
+            "title": "5 Tanda Kamu Penyebar Bad Vibes, Coba Sadar Diri, yuk!",
+            "slug": "Gak perlu membela diri, mengubah diri jauh lebih baik",
+            "content": "Kendati terlalu memikirkan pendapat orang lain bukanlah hal yang baik. Tapi, gak ada salahnya untuk mengevaluasi bagaimana perlakuan orang lain ke kamu sebagai bahan evaluasi diri. Karena bisa jadi, banyak orang yang gak menyukaimu, disebabkan ada perangaimu yang mesti dibenahi. Misalnya saja, tanpa sadar ternyata kamu sudah dikenal sebagai penyebar bad vibes atau aura negatif. Maka dari itu, orang lain gak begitu suka bergaul denganmu. Nah, sebagai bahan koreksi diri, yuk, kenali tanda apa saja yang mencirikan kalau kamu sering menyebarkan aura negatif ke sekitar. Sebaiknya segera kamu cek!",
+            "imgUrl": "https://cdn.idntimes.com/content-images/community/2021/11/angry-162-0f9b21527fae49acb18f02de705afd9c-b4a2810df41647c245d914a32bbd4357_600x400.jpg",
+            "createdAt": "2021-11-08",
+            "updatedAt": "2021-11-08",
+            "categoryId": 5,
+            "authorId": 1
+        }
+
+    ],
+    "Category": [
+        { "id":1, "name":"Bussines", "createdAt": "2021-11-08", "updatedAt": "2021-11-08"},
+        { "id":2, "name":"Sports", "createdAt": "2021-11-08", "updatedAt": "2021-11-08"},
+        { "id":3, "name":"Tech", "createdAt": "2021-11-08", "updatedAt": "2021-11-08"},
+        { "id":4, "name":"Hype", "createdAt": "2021-11-08", "updatedAt": "2021-11-08"},
+        { "id":5, "name":"Life", "createdAt": "2021-11-08", "updatedAt": "2021-11-08"},
+        { "id":6, "name":"Health", "createdAt": "2021-11-08", "updatedAt": "2021-11-08"}
+    ],
+    "Tags":[
+        { "id": 1, "postId" : 1, "name": "healty", "createdAt": "2021-11-08", "updatedAt": "2021-11-08"}
+    ]
+}
